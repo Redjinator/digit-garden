@@ -1,0 +1,23 @@
+{
+  "name": "digital-garden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redjinator/digit-garden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redjinator/digit-garden/issues"
+  },
+  "homepage": "https://github.com/Redjinator/digit-garden#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
